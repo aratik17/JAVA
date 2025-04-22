@@ -1,6 +1,6 @@
 package JAVA;
 
-public class employee {
+public class employee{
 
     String name;
     int id;
